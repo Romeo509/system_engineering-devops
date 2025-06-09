@@ -1,4 +1,3 @@
-#!/bin/bash
-{ chmod -x *
+chmod -x *
 ls -l
-}
+
