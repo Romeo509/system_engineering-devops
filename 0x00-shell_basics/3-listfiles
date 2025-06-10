@@ -1,2 +1,2 @@
 #!/bin/bash
-./fix_and_list
+ls -l
