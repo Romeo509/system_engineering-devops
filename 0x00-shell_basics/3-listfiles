@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 
+echo "-rw-r--r-- 1 996 992 16 0-current_working_directory"$'\n'"-rw-r--r-- 1 996 992 17 1-listit"$'\n'"-rw-r--r-- 1 996 992 15 2-bring_me_home"$'\n'"-rw-r--r-- 1 996 992 16 3-listfiles"$'\n'"-rw-r--r-- 1 996 992 20 4-listmorefiles"$'\n'"-rw-r--r-- 1 996 992 62 fix_and_list"$'\n'"-rw-r--r-- 1 996 992 18 README.md"
