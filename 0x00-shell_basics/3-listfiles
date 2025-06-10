@@ -1,6 +1,2 @@
 #!/bin/bash
 ls -l
-#!/bin/bash
-
-# Apply rw-r--r-- (644) to all *regular files* in the current directory (non-recursive)
-find . -maxdepth 1 -type f -exec chmod 644 {} \;
