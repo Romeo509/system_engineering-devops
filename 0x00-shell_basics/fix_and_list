@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 644 3-listfiles
+ls -l
