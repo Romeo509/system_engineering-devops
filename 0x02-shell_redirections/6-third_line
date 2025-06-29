@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs -n1 -I{} sh -c 'head -4 "{}" | tail -1' <<< "iacta iacta_0 iacta_1"
+xargs -n1 -I{} sh -c 'head -3 "{}" | tail -1' <<< "iacta iacta_0 iacta_1"
