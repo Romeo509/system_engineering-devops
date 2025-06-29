@@ -1,2 +1,2 @@
 #!/bin/bash
-grep . iacta | tail -n 1 >> iacta
+echo -en "" | tail --lines=1 iacta >> iacta
