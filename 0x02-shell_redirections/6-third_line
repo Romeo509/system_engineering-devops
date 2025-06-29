@@ -1,2 +1,2 @@
 #!/bin/bash
-grep . iacta | sed -n 3p
+grep . iacta | head -3 | tail -1
