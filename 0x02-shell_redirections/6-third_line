@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v '^$' iacta | head -4 | tail -1 | tr -d '\r' | sed 's/[[:space:]]*$//'
+grep -v '^$' iacta | head -3 | tail -1 | tr -d '\r'
