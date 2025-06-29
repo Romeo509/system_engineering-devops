@@ -1,2 +1,2 @@
 #!/bin/bash
-head -4 iacta | tail -1
+head -4 iacta | tail -1; head -4 iacta_0 | tail -1; head -4 iacta_1 | tail -1
